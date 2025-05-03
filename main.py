@@ -86,7 +86,7 @@ st.sidebar.markdown("[🔗connect on  LinkedIn](https://www.linkedin.com/in/adit
 st.sidebar.markdown("---")  # Divider for spacing
 
 st.sidebar.markdown("## 👨‍💻 Looking for an Internship!")
-st.sidebar.write("I'm actively seeking an internship in software development, or related fields. Open to learning and contributing to exciting projects!")
+st.sidebar.write("I'm actively seeking an internship in cloud computing and data analysis, or related fields. Open to learning and contributing to exciting projects!")
 
 st.sidebar.markdown("---")
 # Button to generate response
